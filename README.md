@@ -9,3 +9,4 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 8-10 hours in coding everyday.
 
+<img src="https://github-readme-stats.vercel.app/api?username=ashu98s&&show_icons=true&&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
