@@ -1,4 +1,5 @@
-###   Hi, I'm Ashirbad Swain! 👋
+###   Hi, I'm Ashirbad Swain! 👋  [![HitCount](http://hits.dwyl.com/ashu98s/ashu98s.svg)](http://hits.dwyl.com/ashu98s/ashu98s)
+
 
 - 🔭 I’m currently looking for a job.
 - 🌱 I’m currently learning everything 🤣
@@ -9,8 +10,6 @@
 
 
 ### Connect with me:
-<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
-<img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 
 
 <br />
@@ -21,10 +20,5 @@
 
 <br />
 
-<details>
-  <summary>:zap: Github Stats</summary>
-
-  <img align="left" alt="ashu98s's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ashu98s&show_icons=true&hide_border=true" />
-
-</details>
+<img src="https://github-readme-stats.vercel.app/api?username=ashu98s&&show_icons=true&&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
