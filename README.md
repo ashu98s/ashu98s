@@ -5,16 +5,11 @@
 - 👯 I’m looking to collaborate on GitHub.
 - 🤔 I’m looking for help with live projects.
 - 💬 Ask me about Android, Java or any tech related stuff.
-- 📫 How to reach me: [Twitter - @98_ashirbad](https://twitter.com/98_ashirbad), [LinkedIn - ashirbad98](https://www.linkedin.com/in/ashirbad98/)
-- 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 8-10 hours in coding everyday.
 
 
 ### Connect with me:
-![Twitter Follow](https://img.shields.io/twitter/follow/98_ashirbad?color=%231DA1F2&logo=Twitter&style=for-the-badge)
-[<img align="left" alt="98_ashirbad | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 <br />
 
