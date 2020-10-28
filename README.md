@@ -20,7 +20,7 @@
 ### Languages and Tools:
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/Android-%23DDC84.svg?&style=for-the-badge&logo=Android&logoColor=white"/> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white"> <img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white">
 
-<img src="https://img.shields.io/badge/tor-%7E4798.svg?&style=for-the-badge&logo=tor&logoColor=white"/>
+<img src="https://img.shields.io/badge/kotlin-%0095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white"/>
 
 <br />
 
