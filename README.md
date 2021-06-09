@@ -1,4 +1,4 @@
-###   Hi, I'm Ashirbad Swain! 👋  [![HitCount](http://hits.dwyl.com/ashu98s/ashu98s.svg)](http://hits.dwyl.com/ashu98s/ashu98s)
+###   Hi, I'm Ashirbad Swain! 👋  
 
 
 - 🌱 I’m currently learning everything 🤣
