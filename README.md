@@ -9,7 +9,7 @@
 
 [<img align="left" alt="ashu98s | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/98_ashirbad)
 [<img align="left" alt="ashu98s| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/ashirbad98/)
-[<img align="left" alt="ashu98s| Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/ashirbad.98/)
+[<img align="left" alt="ashu98s| Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/ashirbad.iam/)
 [<img align="left" alt="ashu98s| Web" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/wordpress.svg" />](https://ashu98s.github.io/)
 
 
