@@ -23,4 +23,4 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=ashu98s&&show_icons=true&&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
-<a href="https://app.daily.dev/ashu98s"><img src="https://api.daily.dev/devcards/ce76f309f0bc43bc916baabf96557c31.png?r=b6i" width="400" alt="Ashirbad Swain's Dev Card"/></a>
+<a href="https://app.daily.dev/ashu98s"><img src="https://api.daily.dev/devcards/ce76f309f0bc43bc916baabf96557c31.png?r=3e7" width="400" alt="Ashirbad Swain's Dev Card"/></a>
