@@ -17,7 +17,7 @@
     <img
       width="256"
       align="right"
-      src="https://api.daily.dev/devcards/ce76f309f0bc43bc916baabf96557c31.png?r=4wc"
+      src="https://api.daily.dev/devcards/ce76f309f0bc43bc916baabf96557c31.png?r=sdw"
     />
   </a>
 </div>
