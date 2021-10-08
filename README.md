@@ -1,4 +1,4 @@
-###   Hi, there! 👋  
+#  Hi, there! 👋  
 
 <div align="left">
   <a href="https://twitter.com/98_ashirbad">
@@ -13,21 +13,22 @@
       alt="LinkedIn"
     />
   </a>
-
   <a href="https://api.daily.dev/get?r=ashu98s" target="_blank">
     <img
       width="256"
       align="right"
-      src="https://raw.githubusercontent.com/omBratteng/omBratteng/devcard/devcard.svg"
+      src="https://api.daily.dev/devcards/ce76f309f0bc43bc916baabf96557c31.png?r=zh7"
     />
   </a>
 </div>
+
 
 - 👨‍💻 Mobile Application Developer.
 - 🤔 I’m looking for help with live projects.
 - 💬 Ask me about Android, Flutter, Java and Kotlin development or any tech related stuff.
 
-### Connect with me:
+
+# Connect with me:
 
 [<img align="left" alt="ashu98s | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/98_ashirbad)
 [<img align="left" alt="ashu98s| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/ashirbad98/)
