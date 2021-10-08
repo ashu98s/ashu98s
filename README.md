@@ -23,6 +23,9 @@
   </a>
 </div>
 
+- 👨‍💻 Mobile Application Developer.
+- 🤔 I’m looking for help with live projects.
+- 💬 Ask me about Android, Flutter, Java and Kotlin development or any tech related stuff.
 
 ### Connect with me:
 
