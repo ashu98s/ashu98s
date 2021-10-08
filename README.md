@@ -1,7 +1,4 @@
-<a href="https://app.daily.dev/ashu98s"><img src="https://api.daily.dev/devcards/ce76f309f0bc43bc916baabf96557c31.png?r=3e7" width="400" alt="Ashirbad Swain's Dev Card"/></a>
-
-
-###   Hi, I'm Ashirbad Swain! 👋  
+###   Hi, there! 👋  
 
 - 👨‍💻 Mobile Application Developer.
 - 🤔 I’m looking for help with live projects.
