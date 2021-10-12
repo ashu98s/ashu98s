@@ -1,20 +1,8 @@
 ##  Hi, there! 👋  
 
-<div align="left">
-  <a href="https://api.daily.dev/get?r=ashu98s" target="_blank">
-    <img
-      width="256"
-      align="right"
-      src="https://api.daily.dev/devcards/ce76f309f0bc43bc916baabf96557c31.png?r=sdw"
-    />
-  </a>
-</div>
-
-
 - 👨‍💻 Mobile Application Developer.
 - 🤔 I’m looking for help with live projects.
 - 💬 Ask me about Android, Flutter, Java and Kotlin development or any tech related stuff.
-
 
 ## Connect with me:
 
@@ -22,7 +10,6 @@
 [<img align="left" alt="ashu98s| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/ashirbad98/)
 [<img align="left" alt="ashu98s| Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/ashirbad.iam/)
 [<img align="left" alt="ashu98s| Web" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/wordpress.svg" />](https://ashu98s.github.io/)
-
 
 <br />
 
