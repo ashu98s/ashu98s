@@ -4,7 +4,7 @@
 - 🤔 I’m looking for help with live projects.
 - 💬 Ask me about Android, Flutter, Java and Kotlin development or any tech related stuff.
 
-## Connect with me:
+### Connect with me:
 
 [<img align="left" alt="ashu98s | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/98_ashirbad)
 [<img align="left" alt="ashu98s| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/ashirbad98/)
@@ -13,11 +13,14 @@
 
 <br />
 
-## Languages and Tools:
-<img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/kotlin%20-%236DB33F.svg?&style=for-the-badge&logo=kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/Android-%23DDC84.svg?&style=for-the-badge&logo=Android&logoColor=white"/> <img src="https://img.shields.io/badge/dart-%231572B6.svg?&style=for-the-badge&logo=dart&logoColor=white"> <img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/materialdesign-%231572B6.svg?&style=for-the-badge&logo=material-design&logoColor=white"> <img src="https://img.shields.io/badge/figma-%23ED8B00.svg?&style=for-the-badge&logo=figma&logoColor=white"/> <img src="https://img.shields.io/badge/firebase-%23AD8B00.svg?&style=for-the-badge&logo=firebase&logoColor=white"/> <img src="https://img.shields.io/badge/flutter-%231572B6.svg?&style=for-the-badge&logo=flutter&logoColor=white">  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white">
+### Languages and Tools:
+<code > <img height = "50" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" > </code >
+<code > <img height = "50" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/Android/Android.png" > </code >
 
-
-<br />
-
-<img src="https://github-readme-stats.vercel.app/api?username=ashu98s&&show_icons=true&&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=123165">
-
+<br>
+<p>
+ <a href="https://github.com/ashu98s/github-readme-stats">
+  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashu98s&hide=c%23,powershell,java&title_color=2aa889&text_color=000&icon_color=2bbc8a&bg_color=fff&langs_count=8&layout=compact"/>
+  </a>
+  <img align="center" height=175 src="https://github-readme-stats.vercel.app/api?username=ashu98s&show_icons=true" alt="ashu98s" />
+ </p>
