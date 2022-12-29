@@ -1,5 +1,5 @@
 ##  Hi, there! 👋  
-<img align="right" alt="Coding" width="300" src="https://t4.ftcdn.net/jpg/02/73/46/99/360_F_273469972_ESU9Rq3eIpSrK3xddlIEyDh7vrslbiGg.jpg">
+<img align="right" alt="Coding" width="250" src="https://t4.ftcdn.net/jpg/02/73/46/99/360_F_273469972_ESU9Rq3eIpSrK3xddlIEyDh7vrslbiGg.jpg">
 
 - 👨‍💻 Mobile Application Developer.
 - 🤔 I’m looking for help with live projects.
