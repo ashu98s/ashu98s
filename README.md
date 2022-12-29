@@ -1,4 +1,4 @@
-##  Hi, there! 👋  
+##  Hi, there! 👋
 <img align="right" alt="Coding" width="250" src="https://t4.ftcdn.net/jpg/02/73/46/99/360_F_273469972_ESU9Rq3eIpSrK3xddlIEyDh7vrslbiGg.jpg">
 
 - 👨‍💻 Mobile Application Developer.
@@ -7,7 +7,7 @@
 <p>
 <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ashu98s?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
 <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ashu98s?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-<align="left"> <img src="https://komarev.com/ghpvc/?username=ashu98s&label=Profile%20views&color=0e75b6&style=flat" alt="ashu98s" /> 
+<align="left"> <img src="https://komarev.com/ghpvc/?username=ashu98s&label=Profile%20views&color=488207&style=flat" alt="ashu98s" /> 
 </P>
 
 ### Connect with me:
