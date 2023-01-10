@@ -16,6 +16,7 @@
 [<img align="left" alt="ashu98s| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/ashirbad98/)
 [<img align="left" alt="ashu98s| Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/ashirbad.iam/)
 [<img align="left" alt="ashu98s| Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />](https://medium.com/@ashirbad98)
+[<img align="left" alt="ashu98s| Hashnode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hashnode.svg" />](https://ashirbadswain.hashnode.dev/)
 
 <br />
 
