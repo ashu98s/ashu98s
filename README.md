@@ -39,9 +39,5 @@
 <br/>
 <br/>
 
-<p>
- <a href="https://github.com/ashu98s/github-readme-stats">
-  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashu98s&hide=c%23,powershell,java&title_color=2aa889&text_color=000&icon_color=2bbc8a&bg_color=fff&langs_count=8&layout=compact"/>
-  </a>
-  <img align="center" height=175 src="https://github-readme-stats.vercel.app/api?username=ashu98s&show_icons=true" alt="ashu98s" />
- </p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashu98s&show_icons=true&locale=en&theme=lightdark" alt="ashu98s" /></p>
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashu98s&show_icons=true&locale=en&layout=compact&theme=light" alt="ashu98s" /></p>
