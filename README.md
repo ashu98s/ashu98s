@@ -38,6 +38,3 @@
 <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <br/>
 <br/>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashu98s&show_icons=true&locale=en&theme=lightdark" alt="ashu98s" /></p>
- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashu98s&show_icons=true&locale=en&layout=compact&theme=light" alt="ashu98s" /></p>
